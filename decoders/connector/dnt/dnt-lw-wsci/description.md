@@ -1,0 +1,1 @@
+The dnt LoRaWAN® window sensor and contact interface can detect the state of a window of a door (open/closed) via the integrated magnetometer or the contact interface. Besides an external reed contact, it is also possible to attach a glas-break sensor to the contact interface to use the device in security context.

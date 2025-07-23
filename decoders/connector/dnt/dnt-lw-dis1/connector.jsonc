@@ -1,0 +1,13 @@
+{
+    "$schema": "../../../../schema/connector.json",
+    "name": "dnt-lw-dis1 ",
+    "images": {
+        "logo": "./assets/dnt-lw-dis1.png"
+    },
+    "versions": {
+        "v1.0.0": {
+            "src": "./v1.0.0/payload.js",
+            "manifest": "./v1.0.0/payload-config.jsonc"
+        }
+    }
+}

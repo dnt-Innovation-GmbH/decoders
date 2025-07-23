@@ -1,0 +1,1 @@
+The dnt LoRaWAN® Radiator thermostat (dnt-lw-eTRV) enables remote control of the room temperature. It features three customizable heating profiles with up to ten switching times per day. Because of very low energy consumption of only 3.8 uA, a battery life up to 5 years can be archived.
