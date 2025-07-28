@@ -1,7 +1,7 @@
 {
     "$schema": "../../../../../schema/connector_details.json",
     "description": "../description.md",
-    "install_text": "**The dnt® LoRaWAN® Wall Thermostat (dnt-lw-wth) contols the romm heation or air conditionin and shows relevant infos on an integrated Display ",
+    "install_text": "**The dnt® LoRaWAN® wall thermostat (dnt-lw-wth) contolls the romm heating or air conditioning and shows relevant infos on an integrated display ",
     "install_end_text": "",
     "device_annotation": "",
     "networks": [

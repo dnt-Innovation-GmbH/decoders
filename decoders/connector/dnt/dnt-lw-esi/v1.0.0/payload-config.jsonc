@@ -1,7 +1,7 @@
 {
     "$schema": "../../../../../schema/connector_details.json",
     "description": "../description.md",
-    "install_text": "**The dnt® LoRaWAN® energy sensor interface is a device to collect data from smart gas or electricity meters",
+    "install_text": "**The dnt® LoRaWAN® energy sensor interface (dnt-lw-esi) is a device to collect data from smart gas or electricity meters",
     "install_end_text": "",
     "device_annotation": "",
     "networks": [

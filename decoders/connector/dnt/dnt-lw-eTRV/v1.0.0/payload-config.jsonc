@@ -1,7 +1,7 @@
 {
     "$schema": "../../../../../schema/connector_details.json",
     "description": "../description.md",
-    "install_text": "**The dnt LoRaWAN® Radiator thermostat (dnt-lw-eTRV) features an ultra low power desing and enables remote control of the room temperature with customizable heating programs.",
+    "install_text": "**The dnt LoRaWAN® radiator thermostat (dnt-lw-eTRV) features an ultra low power desing and enables remote control of the room temperature with customizable heating programs.",
     "install_end_text": "",
     "device_annotation": "",
     "networks": [

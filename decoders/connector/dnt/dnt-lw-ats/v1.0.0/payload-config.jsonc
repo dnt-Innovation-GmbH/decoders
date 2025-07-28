@@ -1,7 +1,7 @@
 {
     "$schema": "../../../../../schema/connector_details.json",
     "description": "../description.md",
-    "install_text": "**The dnt LoRaWAN® Asset Tracker Solar (dnt-lw-ats) enables reliable and robust gnss asset tracking in a compact housing",
+    "install_text": "**The dnt LoRaWAN® asset tracker solar (dnt-lw-ats) enables reliable and robust gnss asset tracking in a compact housing",
     "install_end_text": "",
     "device_annotation": "",
     "networks": [
