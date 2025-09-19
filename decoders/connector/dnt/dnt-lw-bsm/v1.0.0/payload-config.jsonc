@@ -1,7 +1,7 @@
 {
     "$schema": "../../../../../schema/connector_details.json",
     "description": "../description.md",
-    "install_text": "**The dnt® LoRaWAN® Switch Actuator and Meter for brand switches is the ideal solution for switching lights and other electric loads either directly on the device or remote via LoRaWAN® Downlinks",
+    "install_text": "**The dnt® LoRaWAN® Switch Actuator and Meter for brand switches enables switching of lights and ohter elctrical loads localy or remote via LoRaWAN® downlinks",
     "install_end_text": "",
     "device_annotation": "",
     "networks": [
