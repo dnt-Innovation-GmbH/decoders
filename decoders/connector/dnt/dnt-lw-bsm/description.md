@@ -1,0 +1,1 @@
+The dnt LoRaWAN® Switch Actuator and Meter for brand switches is the ideal solution for inteligent controlling of Lights and other electric loads in public buildings like schools, industrial plants, authorities, hotels or offices. It can be deployed in existing infrastructure and offers remote control via Downlinks or directly on the device with the mounted switch plate.
